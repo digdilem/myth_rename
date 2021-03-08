@@ -1,7 +1,8 @@
 # myth_rename
 Renames files created by MythTV using their original names
 
-Tested up to mythtv 0.28.1 (June 2017)
+Tested up to mythtv 0.28.1 (June 2017) 
+Update: Still working on mythtv current version, March 2021
 
 Eg:
 
